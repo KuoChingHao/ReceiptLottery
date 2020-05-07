@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>ReceiptLottery.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>229385332167A5B9001AE386</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>229385472167A5BB001AE386</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>229385522167A5BB001AE386</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
